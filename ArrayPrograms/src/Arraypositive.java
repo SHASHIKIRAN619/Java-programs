@@ -4,7 +4,7 @@ public class Arraypositive {
  public static void main(String[]args)
  {
 	 Scanner scan = new Scanner(System.in);
-	 System.out.println("Emter the Array Length: ");
+	 System.out.println("Enter the Array Length: ");
 	 int arr[] = new int[scan.nextInt()];
 	 System.out.println("Enter the Array Elements are: ");
 	 for(int i=0;i<=arr.length-1;i++)
